@@ -25,7 +25,7 @@ The report has been designed with a clean and visually appealing layout by incor
 
 Displays batting-related performance metrics for the selected player using KPI cards.
 
-![Batting Dashboard]()
+![Batting Dashboard](Images/Batting.PNG)
 
 ### 🎯 Bowling Analysis
 
