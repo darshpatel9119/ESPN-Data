@@ -25,6 +25,8 @@ The report has been designed with a clean and visually appealing layout by incor
 
 Displays batting-related performance metrics for the selected player using KPI cards.
 
+![Batting Dashboard]()
+
 ### 🎯 Bowling Analysis
 
 Displays bowling performance statistics for the selected player using KPI cards.
@@ -115,4 +117,4 @@ Example fields include:
 * Interactive Dashboard Design
 * Data Visualization
 
-![Batting Dashboard](Report%20Image%20ESPN%20Data.PNG)
+
