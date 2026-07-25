@@ -33,13 +33,17 @@ Displays batting-related performance metrics for the selected player using KPI c
 
 Displays bowling performance statistics for the selected player using KPI cards.
 
-![Batting Dashboard](Images/Bowling.PNG)
+<p align="center">
+  <img src="Images/Batting.PNG" alt="Bowling Dashboard" width="1000">
+</p>
 
 ### 🧤 Fielding Analysis
 
 Displays fielding statistics for the selected player using KPI cards.
 
-![Batting Dashboard](Images/Fielding.PNG)
+<p align="center">
+  <img src="Images/Batting.PNG" alt="Batting Dashboard" width="1000">
+</p>
 
 ---
 
