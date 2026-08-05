@@ -23,7 +23,7 @@ The report has been designed with a clean and visually appealing layout by incor
 
 ### 🏏 Batting Analysis
 
-Displays batting-related performance metrics for the selected player using KPI cards.
+Displays batting-related performance metrics for the selected player using Cards Visuals.
 
 <p align="center">
   <img src="Images/Batting.PNG" alt="Batting Dashboard" width="1000">
@@ -31,7 +31,7 @@ Displays batting-related performance metrics for the selected player using KPI c
 
 ### 🎯 Bowling Analysis
 
-Displays bowling performance statistics for the selected player using KPI cards.
+Displays bowling performance statistics for the selected player using Cards Visuals.
 
 <p align="center">
   <img src="Images/Bowling.PNG" alt="Bowling Dashboard" width="1000">
@@ -39,7 +39,7 @@ Displays bowling performance statistics for the selected player using KPI cards.
 
 ### 🧤 Fielding Analysis
 
-Displays fielding statistics for the selected player using KPI cards.
+Displays fielding statistics for the selected player using Cards Visuals.
 
 <p align="center">
   <img src="Images/Fielding.PNG" alt="Fielding Dashboard" width="1000">
